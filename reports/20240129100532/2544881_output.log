@@ -1,0 +1,28 @@
+2024-01-29 10:05:33,776 - student - INFO - Log initialization
+2024-01-29 10:05:33,777 - student - INFO - START: 2544881 - Sindhuv2094
+2024-01-29 10:05:33,895 - student - ERROR - (3, 'rmdir C:\\evaluate\\build\\20240129100502\\2544881\\Sindhuv2094\\java-core /S /Q')
+2024-01-29 10:05:33,895 - student - INFO - CLONE: https://github.com/Sindhuv2094/java-core
+2024-01-29 10:05:34,850 - student - INFO - CLONE: Successful
+2024-01-29 10:05:34,851 - student - INFO - BUILD: Start
+2024-01-29 10:05:40,932 - student - INFO - BUILD: Successful
+2024-01-29 10:05:40,934 - student - INFO - TEST: Start
+2024-01-29 10:05:41,888 - student - INFO - TEST: START D01
+2024-01-29 10:05:41,890 - student - INFO - TEST: START D01 tc_01
+2024-01-29 10:05:42,077 - student - INFO - TEST: FAIL D01 tc_01 ("Failed to import 'learning.java.core.day1.Rectangle'",)
+2024-01-29 10:05:42,083 - student - INFO - TEST: END D01 tc_01
+2024-01-29 10:05:42,119 - student - INFO - TEST: FAIL D01 tc_02 ("Failed to import 'learning.java.core.day1.D01p01'",)
+2024-01-29 10:05:42,149 - student - INFO - TEST: END D01
+2024-01-29 10:05:42,151 - student - INFO - TEST: START D02
+2024-01-29 10:05:42,167 - student - INFO - TEST: FAIL D02 tc_01 ("Failed to import 'learning.java.core.day2.D02p01'",)
+2024-01-29 10:05:42,184 - student - INFO - TEST: FAIL D02 tc_02 ("Failed to import 'learning.java.core.day2.D02p01'",)
+2024-01-29 10:05:42,189 - student - INFO - TEST: FAIL D02 tc_03 ("Failed to import 'learning.java.core.day2.D02p01'",)
+2024-01-29 10:05:42,200 - student - INFO - TEST: END D02
+2024-01-29 10:05:42,202 - student - INFO - TEST: SKIP D03
+2024-01-29 10:05:42,211 - student - INFO - TEST: SKIP D04
+2024-01-29 10:05:42,214 - student - INFO - TEST: SKIP D05
+2024-01-29 10:05:42,215 - student - INFO - TEST: SKIP D06
+2024-01-29 10:05:42,217 - student - INFO - TEST: SKIP D07
+2024-01-29 10:05:42,218 - student - INFO - TEST: SKIP D08
+2024-01-29 10:05:42,221 - student - INFO - TEST: SKIP D09
+2024-01-29 10:05:42,223 - student - INFO - TEST: SKIP D10
+2024-01-29 10:05:42,223 - student - INFO - TEST: End
